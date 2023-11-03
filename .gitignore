@@ -3,6 +3,8 @@
 build/
 gradle/
 
+# zip archive of the project
+*.zip
 
 # Local configuration file (sdk path, etc)
 local.properties
