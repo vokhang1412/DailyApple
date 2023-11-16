@@ -1,7 +1,6 @@
 # Gradle files
 .gradle
 build/
-gradle/
 
 # zip archive of the project
 *.zip
